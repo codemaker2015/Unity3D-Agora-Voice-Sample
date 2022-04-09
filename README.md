@@ -1,6 +1,6 @@
-# Hello Unity3D Agora
+# Unity3D Agora Voice Sample
 
-The Hello Unity3D Agora Sample App is an open-source demo that will help you get voice chat integrated directly into your Unity3D game applications using the Agora Gaming SDK.
+The Unity3D Agora Voice Sample App is an open-source demo that will help you get voice chat integrated directly into your Unity3D game applications using the Agora Gaming SDK.
 
 With this sample app, you can:
 

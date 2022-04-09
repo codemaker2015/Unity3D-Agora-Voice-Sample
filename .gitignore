@@ -2,7 +2,7 @@
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
-/[Bb]uilds/
+# /[Bb]uilds/
 /Assets/AssetStoreTools*
 /Native/obj/
 /Native/libs/
@@ -30,7 +30,7 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
+# *.apk
 *.unitypackage
 
 /UnityPackageManager
